@@ -3,7 +3,7 @@ module github.com/funayman/stratus
 go 1.20
 
 require (
-	github.com/funayman/cloud-sql-go-connector v1.4.1
+	github.com/funayman/cloud-sql-go-connector v1.4.2
 	gorm.io/driver/postgres v1.5.2
 	gorm.io/gorm v1.25.2
 )
